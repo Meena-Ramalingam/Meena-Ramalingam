@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meena-Ramalingam</h1>
 <h3 align="center">: 👋 I'm a curious tech enthusiast, leader, and aspiring AIML engineer. Passionate about transforming ideas into reality, I thrive on innovation and collaboration. Dive into my projects to see the world through a techie's eyes! 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meena-ramalingam" alt="meena-ramalingam" /></a> </p>
 
 - 🌱 I’m currently learning **OOPS**
 

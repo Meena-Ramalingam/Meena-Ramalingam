@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meena-Ramalingam</h1>
-<h3 align="center">: 👋 I'm a curious tech enthusiast, leader, and aspiring AIML engineer. Passionate about transforming ideas into reality, I thrive on innovation and collaboration. Dive into my projects to see the world through a techie's eyes! 🚀</h3>
+<h3 align="center">: 👋 I'm a curious tech enthusiast, leader, and aspiring AIML engineer. Passionate about transforming ideas into reality, I thrive on innovation and collaboration. Dive into my projects to see the world through a techie's eyes!</h3>
 
 
 - 🌱 I’m currently learning **OOPS**
